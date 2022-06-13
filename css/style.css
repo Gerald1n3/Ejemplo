@@ -1,3 +1,6 @@
-*{
-    background-color: aqua;
+#image{
+    background-image: url("https://www.fundacion-affinity.org/sites/default/files/los-10-sonidos-principales-del-perro.jpg");
+    height: 500px;
+    width: 500px;
+    position: relative;
 }
